@@ -1,4 +1,4 @@
 def hello():
-    print("Hello, Rin!")
+    print("Hello, Yoo!")
 
 hello()
